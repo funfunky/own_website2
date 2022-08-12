@@ -17,13 +17,13 @@ content:
 
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: karolina.scigala@psy.au.dk
   
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Twitter
+      link: 'https://twitter.com/kascigala'
    
 
 design:
