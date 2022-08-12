@@ -14,7 +14,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T15:56:05+02:00
+lastmod: 2022-08-12T16:02:45+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T13:56:03.497796Z'
+publishDate: '2022-08-12T14:02:44.116356Z'
 publication_types:
 - '0'
 abstract: Does the basic prosocial trait of Honesty-Humility predict crime? We test

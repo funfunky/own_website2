@@ -17,7 +17,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T15:56:07+02:00
+lastmod: 2022-08-12T16:02:48+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T13:56:05.261614Z'
+publishDate: '2022-08-12T14:02:45.737118Z'
 publication_types:
 - '0'
 abstract: 'People differ fundamentally in their propensity to engage in bribery. Herein,

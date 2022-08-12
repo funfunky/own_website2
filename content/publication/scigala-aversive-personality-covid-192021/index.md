@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2021-10-01'
-lastmod: 2022-08-12T15:55:39+02:00
+lastmod: 2022-08-12T16:02:20+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T13:55:37.930985Z'
+publishDate: '2022-08-12T14:02:19.356627Z'
 publication_types:
 - '2'
 abstract: 'Abstract. The Coronavirus Disease 2019 (COVID-19) has strongly affected

@@ -22,7 +22,7 @@ tags:
 - unethical justifications
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T15:56:08+02:00
+lastmod: 2022-08-12T16:02:51+02:00
 featured: false
 draft: false
 
@@ -40,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T13:56:07.181405Z'
+publishDate: '2022-08-12T14:02:48.637729Z'
 publication_types:
-- '0'
+- '2'
 abstract: Does the basic trait Honesty-Humility predict the type of moral concerns
   people express in language? We explore whether Honesty-Humility relates to the expression
   of five moral concerns in language—namely, care/harm, justice/fairness, loyalty/betrayal,
@@ -54,7 +54,7 @@ abstract: Does the basic trait Honesty-Humility predict the type of moral concer
   sanctity/degradation concerns. Our findings thus suggest that justice/fairness concerns
   might serve as one of the mechanisms relating Honesty-Humility to anti- and prosocial
   behavior.
-publication: '*PsyArXiv*'
+publication: '*Forthcoming in Journal of Research in Personality*'
 doi: 10.31234/osf.io/7x6f5
 links:
 - name: URL
