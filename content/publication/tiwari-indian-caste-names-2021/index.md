@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Shambhavi Tiwari
-- Karolina Aleksandra Ścigała
+- Karolina A. Ścigała
 - Christoph Schild
 - Ingo Zettler
 tags: []
 categories: []
 date: '2021-11-01'
-lastmod: 2022-08-12T16:10:07+02:00
+lastmod: 2022-08-12T16:26:30+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:05.703458Z'
+publishDate: '2022-08-12T14:26:28.672096Z'
 publication_types:
 - '2'
 abstract: ''

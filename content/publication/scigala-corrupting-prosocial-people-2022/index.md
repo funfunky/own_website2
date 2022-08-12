@@ -6,7 +6,7 @@ title: 'Corrupting the prosocial people: does cooperation framing increase bribe
 subtitle: ''
 summary: ''
 authors:
-- Karolina Aleksandra Ścigała
+- Karolina A. Ścigała
 - Ingo Zettler
 - Stefan Pfattheicher
 - Valerio Capraro
@@ -15,7 +15,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:10:16+02:00
+lastmod: 2022-08-12T16:26:38+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:14.688971Z'
+publishDate: '2022-08-12T14:26:37.367573Z'
 publication_types:
 - '0'
 abstract: Cooperation—although typically connoted with prosocial behaviour—plays a

@@ -5,7 +5,7 @@ title: The relation between Honesty-Humility and moral concerns as expressed in 
 subtitle: ''
 summary: ''
 authors:
-- Karolina Aleksandra Ścigała
+- Karolina A. Ścigała
 - Ioanna Arkoudi
 - Christoph Schild
 - Stefan Pfattheicher
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:10:22+02:00
+lastmod: 2022-08-12T16:26:43+02:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:20.480558Z'
+publishDate: '2022-08-12T14:26:41.754210Z'
 publication_types:
-- '4'
+- '0'
 abstract: Does the basic trait Honesty-Humility predict the type of moral concerns
   people express in language? We explore whether Honesty-Humility relates to the expression
   of five moral concerns in language—namely, care/harm, justice/fairness, loyalty/betrayal,
@@ -45,7 +45,7 @@ abstract: Does the basic trait Honesty-Humility predict the type of moral concer
   sanctity/degradation concerns. Our findings thus suggest that justice/fairness concerns
   might serve as one of the mechanisms relating Honesty-Humility to anti- and prosocial
   behavior.
-publication: ''
+publication: '*PsyArXiv*'
 doi: 10.31234/osf.io/7x6f5
 links:
 - name: URL

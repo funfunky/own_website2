@@ -8,12 +8,12 @@ summary: ''
 authors:
 - Christoph Schild
 - Morten Moshagen
-- Karolina A Ścigała
+- Karolina A. Ścigała
 - Ingo Zettler
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-08-12T16:10:03+02:00
+lastmod: 2022-08-12T16:26:26+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:02.052417Z'
+publishDate: '2022-08-12T14:26:25.372266Z'
 publication_types:
 - '2'
 abstract: In the light of the potential negative consequences of dishonest behaviors

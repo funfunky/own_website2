@@ -5,7 +5,7 @@ title: The effects of resource inequality on bribery
 subtitle: ''
 summary: ''
 authors:
-- Karolina Aleksandra Ścigała
+- Karolina A. Ścigała
 - Laila Nockur
 - Lau Lilleholt
 - Stefan Pfattheicher
@@ -17,7 +17,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:10:20+02:00
+lastmod: 2022-08-12T16:26:41+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:18.498770Z'
+publishDate: '2022-08-12T14:26:40.342173Z'
 publication_types:
 - '0'
 abstract: 'People differ fundamentally in their propensity to engage in bribery. Herein,

@@ -5,7 +5,7 @@ title: Honesty-Humility and criminal behavior among imprisoned criminal offender
 subtitle: ''
 summary: ''
 authors:
-- Karolina Aleksandra Ścigała
+- Karolina A. Ścigała
 - Nico Ruhara
 - Joachim Nitschke
 - Stefan Pfattheicher
@@ -14,7 +14,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:10:18+02:00
+lastmod: 2022-08-12T16:26:40+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:10:16.543674Z'
+publishDate: '2022-08-12T14:26:38.931358Z'
 publication_types:
 - '2'
 abstract: Does the basic prosocial trait of Honesty-Humility predict crime? We test
