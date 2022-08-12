@@ -39,7 +39,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
+I am a Postdoc at the <a href="https://psy.au.dk/cibp/researchers">Centre for Integrative Business Psychology</a> in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
 
 Key scientific areas:
 - Individual and situational predictors of antisocial behaviors, such as dishonesty,
@@ -49,5 +49,3 @@ situational factors in predicting antisocial behavior
 - Relations between creativity and antisocial behavior
 - The role of (un)ethical justifications in motivating prosocial and antisocial behavior
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
