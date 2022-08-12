@@ -32,12 +32,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=OgNfZ_IAAAAJ&hl=en&oi=ao
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -46,7 +41,6 @@ email: ''
 highlight_name: true
 ---
 I am a Postdoc in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
-# Interests to show in About widget
 
 Key scientific areas:
 - Individual and situational predictors of antisocial behaviors, such as dishonesty,
