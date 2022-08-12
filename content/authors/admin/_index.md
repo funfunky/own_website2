@@ -39,7 +39,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoc at the Centre for Integrative Business Psychology in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
+I am a Postdoc at the [Centre for Integrative Business Psychology](https://psy.au.dk/cibp/researchers) in the Department of Psychology and Behavioural Sciences at Aarhus University. Prior to that, I finished my PhD at the University of Copenhagen (2017-2020).
 
 Key scientific areas:
 - Individual and situational predictors of antisocial behaviors, such as dishonesty,
