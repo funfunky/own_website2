@@ -1,0 +1,52 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'May the Odds — or Your Personality — Be in Your Favor: Probability of Observing
+  a Favorable Outcome, Honesty-Humility, and Dishonest Behavior'
+subtitle: ''
+summary: ''
+authors:
+- Christoph Schild
+- Morten Moshagen
+- Karolina A Ścigała
+- Ingo Zettler
+tags: []
+categories: []
+date: '2020-01-01'
+lastmod: 2022-08-12T14:30:35+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-08-12T12:30:34.330207Z'
+publication_types:
+- '2'
+abstract: In the light of the potential negative consequences of dishonest behaviors
+  for individuals and societies, researchers from different disciplines have aimed
+  to investigate situation and person factors shaping the occurrence and extent of
+  such behaviors. The present study investigates the roles of a situation factor,
+  the baseline probability of observing a favorable outcome, and a person factor,
+  trait Honesty-Humility from the HEXACO Model of Personality, in shaping dishonest
+  behavior. Next to main effects, a person-situation interaction between these factors
+  was tested. Across three studies with 5,297 participants overall, we find that a
+  higher baseline probability of observing a favorable outcome and lower levels in
+  Honesty-Humility are linked to more dishonest behavior, whereas there was no strong
+  evidence for an interaction between these factors. By testing the assumed effects
+  in two different cheating paradigms, this study additionally allows to disentangle
+  previously found effects of (a) the distance between an observed and the favorable
+  outcome and (b) the baseline probability of observing a favorable outcome.
+publication: '*Judgment and Decision Making*'
+---
