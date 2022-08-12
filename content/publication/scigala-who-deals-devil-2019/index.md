@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-11-01'
-lastmod: 2022-08-12T16:02:17+02:00
+lastmod: 2022-08-12T16:09:46+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:02:16.180699Z'
+publishDate: '2022-08-12T14:09:44.701370Z'
 publication_types:
 - '2'
 abstract: Corrupted collaboration, that is, gaining personal profits through collaborative

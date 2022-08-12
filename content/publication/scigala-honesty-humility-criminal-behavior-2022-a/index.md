@@ -14,7 +14,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:02:45+02:00
+lastmod: 2022-08-12T16:10:18+02:00
 featured: false
 draft: false
 
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:02:44.116356Z'
+publishDate: '2022-08-12T14:10:16.543674Z'
 publication_types:
-- '0'
+- '2'
 abstract: Does the basic prosocial trait of Honesty-Humility predict crime? We test
   whether Honesty-Humility (1) differentiates between prisoners and the national population,
   (2) predicts the frequency of criminal behavior (the number of reported crimes),
@@ -46,7 +46,7 @@ abstract: Does the basic prosocial trait of Honesty-Humility predict crime? We t
   and non-violent (cheating) lab antisocial behavior among prisoners. We found that
   Honesty-Humility negatively predicted violent, but it did not significantly relate
   to non-violent antisocial behavior in this group.
-publication: '*PsyArXiv*'
+publication: '*Forthcoming in Journal of Research in Personality*'
 doi: 10.31234/osf.io/t9r3b
 links:
 - name: URL

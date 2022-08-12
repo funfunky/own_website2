@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-10-01'
-lastmod: 2022-08-12T16:02:26+02:00
+lastmod: 2022-08-12T16:09:57+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:02:24.475103Z'
+publishDate: '2022-08-12T14:09:55.747499Z'
 publication_types:
 - '2'
 abstract: Trustworthiness is a foundation of well-functioning relationships and societies,
