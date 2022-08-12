@@ -11,7 +11,6 @@ role: Postdoctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Aarhus University
-    url: www.au.dk
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
