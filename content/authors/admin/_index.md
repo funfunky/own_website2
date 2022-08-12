@@ -49,3 +49,5 @@ situational factors in predicting antisocial behavior
 - Relations between creativity and antisocial behavior
 - The role of (un)ethical justifications in motivating prosocial and antisocial behavior
 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
