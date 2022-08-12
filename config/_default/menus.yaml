@@ -19,3 +19,5 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
