@@ -281,7 +281,7 @@ tags:
 - Cultural and media studies
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-12T14:37:03+02:00
+lastmod: 2022-08-12T15:43:38+02:00
 featured: false
 draft: false
 
@@ -299,7 +299,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T12:37:02.207949Z'
+publishDate: '2022-08-12T13:43:36.684985Z'
 publication_types:
 - '2'
 abstract: The study of moral judgements often centres on moral dilemmas in which options

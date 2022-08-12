@@ -15,7 +15,7 @@ tags:
 - Social and Personality Psychology
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T14:37:08+02:00
+lastmod: 2022-08-12T15:43:43+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T12:37:07.409548Z'
+publishDate: '2022-08-12T13:43:42.138033Z'
 publication_types:
 - '0'
 abstract: Cooperation—although typically connoted with prosocial behaviour—plays a

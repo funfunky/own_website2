@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-08-12T14:36:55+02:00
+lastmod: 2022-08-12T15:43:22+02:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T12:36:55.274294Z'
+publishDate: '2022-08-12T13:43:19.767421Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Encyclopedia of Personality and Individual Differences*'
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-319-28099-8_840-1.pdf
 ---
