@@ -252,7 +252,7 @@ tags:
 - Human behaviour
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-12T16:26:31+02:00
+lastmod: 2022-10-05T19:11:34+02:00
 featured: false
 draft: false
 
@@ -270,7 +270,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:26:30.657512Z'
+publishDate: '2022-10-05T17:11:33.920306Z'
 publication_types:
 - '2'
 abstract: Over the past 10 years, Oosterhof and Todorov’s valence–dominance model

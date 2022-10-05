@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2022-10-01'
-lastmod: 2022-10-05T18:40:46+02:00
+lastmod: 2022-10-05T19:11:42+02:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-05T16:40:20.078514Z'
+publishDate: '2022-10-05T17:11:41.361547Z'
 publication_types:
-- '4'
+- '0'
 abstract: Social commitment (i.e., feeling committed to other individuals or groups)
   influences our behavior in various ways. Recent studies suggest that social commitment
   can increase dishonest behavior, while feeling commitment to social norms might
@@ -47,7 +47,7 @@ abstract: Social commitment (i.e., feeling committed to other individuals or gro
   suggesting that commitment to social norms might decrease dishonesty (OR =.81 [.73,
   .90]). In addition, commitment to social norms was less effective if participants
   were committed to a partner at the same time (OR =.93 [.83, 1.03]).
-publication: ''
+publication: '*PsyArXiv*'
 doi: 10.31234/osf.io/9drcn
 links:
 - name: URL

@@ -10,14 +10,14 @@ authors:
 - Lau Lilleholt
 - Stefan Pfattheicher
 tags:
-- bribery
-- corruption
-- inequality
 - Social and Behavioral Sciences
 - Social and Personality Psychology
+- corruption
+- bribery
+- inequality
 categories: []
 date: '2022-08-01'
-lastmod: 2022-08-12T16:26:41+02:00
+lastmod: 2022-10-05T19:11:40+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-12T14:26:40.342173Z'
+publishDate: '2022-10-05T17:11:39.446570Z'
 publication_types:
 - '0'
 abstract: 'People differ fundamentally in their propensity to engage in bribery. Herein,
